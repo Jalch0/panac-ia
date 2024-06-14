@@ -14,7 +14,7 @@
 
 ![preview](.assets/3.png)
 
-Inicialmente, el sistema dispone de un panel que permite al usuario identificar los hospitales cercanos en un radio de hasta 2.5 kilómetros. Asimismo, el usuario tiene la opción de seleccionar entre visualizar solo clínicas, dentistas o, por defecto, hospitales. Esta funcionalidad está disponible en cualquier ubicación global, siempre que los lugares estén etiquetados en Google Maps como sitios pertenecientes al sector de la salud. Además, el sistema incluye un buscador personalizado que permite localizar el hospital o establecimiento de salud de preferencia del usuario dentro de un radio de 5 kilómetros.
+Inicialmente, el sistema dispone de un panel que permite al usuario identificar los hospitales cercanos en un radio de hasta 2.5 kilómetros. Asimismo, el usuario tiene la opción de seleccionar entre visualizar solo Farmacias, dentistas o, por defecto, hospitales. Esta funcionalidad está disponible en cualquier ubicación global, siempre que los lugares estén etiquetados en Google Maps como sitios pertenecientes al sector de la salud. Además, el sistema incluye un buscador personalizado que permite localizar el hospital o establecimiento de salud de preferencia del usuario dentro de un radio de 5 kilómetros.
 
 ![preview](.assets/4.png)
 
