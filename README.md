@@ -14,17 +14,17 @@
 
 ![preview](.assets/3.png)
 
-Inicialmente cuenta con un panel que permite al usuario conocer los hospitales cercanos en un radio de hasta 2,5 kilómetros. También puede seleccionar si desea solo ver Clinicas, Dentistas o la que es por defecto, hospitales. Esto funciona en cualquier ubicación del mundo con los lugares que esten etiquetados en el Google Maps como sitios pertenecientes al área de la salud. Además, cuenta con un buscador personalizado, donde podrá encontrar el hospital o área de la salud de su preferencia en un radio de 5 kilómetros.
+Inicialmente, el sistema dispone de un panel que permite al usuario identificar los hospitales cercanos en un radio de hasta 2.5 kilómetros. Asimismo, el usuario tiene la opción de seleccionar entre visualizar solo clínicas, dentistas o, por defecto, hospitales. Esta funcionalidad está disponible en cualquier ubicación global, siempre que los lugares estén etiquetados en Google Maps como sitios pertenecientes al sector de la salud. Además, el sistema incluye un buscador personalizado que permite localizar el hospital o establecimiento de salud de preferencia del usuario dentro de un radio de 5 kilómetros.
 
 ![preview](.assets/4.png)
 
-Cada lugar cuenta con una tarjeta donde se mostrará la ubicación dada por Google Maps,su valoración representada en estrellas, si esta cerrado o abierto y una imagen de lugar, Asimismo, en el mapa de Google se detallará el lugar con un icono.
+Cada lugar dispone de una tarjeta en la que se muestra la ubicación proporcionada por Google Maps, su valoración representada en estrellas, el estado de abierto o cerrado, y una imagen del lugar. Además, en el mapa de Google, el lugar se detallará con un icono específico.
 
 ![preview](.assets/1.png)
 
-Por otro lado, también se incluye una base de datos que permite al usuario registrarse y acceder a la función normal de programa. Creando la posibilidad de escalar más el programa a sistemas con lugares favoritos o traslados en tiempo real.
+Por otro lado, se incluye una base de datos que permite al usuario registrarse y acceder a las funciones estándar del programa, creando la posibilidad de escalar el sistema para incluir características como lugares favoritos o traslados en tiempo real.
 
-Finalmente, cuenta con un asistente virtual la cual es una integración de la api de OpenAI con CHAT-GPT que esta configurada para dar solo instrucciones referentes al área de la salud enfatizando siempre recomendaciones y orientaciones que deben ser siempre confirmadas por un especialista en el área.
+Finalmente, el sistema cuenta con un asistente virtual que integra la API de OpenAI con ChatGPT, configurado para proporcionar únicamente instrucciones relacionadas con el área de la salud. Este asistente enfatiza siempre que las recomendaciones y orientaciones deben ser confirmadas por un especialista en la materia.
 
 ![preview](.assets/2.png)
 
