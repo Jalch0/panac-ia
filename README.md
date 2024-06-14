@@ -18,7 +18,7 @@ Inicialmente cuenta con un panel que permite al usuario conocer los hospitales c
 
 ![preview](.assets/4.png)
 
-Cada lugar cuenta con una tarjeta donde se mostrará la ubicación dada por Google Maps, su valoración representada en estrellas y una imagen de lugar, Asimismo, en el mapa se detallará el lugar.
+Cada lugar cuenta con una tarjeta donde se mostrará la ubicación dada por Google Maps,su valoración representada en estrellas, si esta cerrado o abierto y una imagen de lugar, Asimismo, en el mapa de Google se detallará el lugar con un icono.
 
 ![preview](.assets/1.png)
 
