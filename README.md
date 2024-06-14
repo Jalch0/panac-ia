@@ -14,7 +14,7 @@
 
 ![preview](.assets/3.png)
 
-Inicialmente cuenta con un panel que permite al usuario conocer los hospitales cercanos en un radio de hasta 2,5 kilometros. También puede seleccionar si desea solo ver Clinicas, Dentistas o la que es por defecto, hospitales. Esto funciona en cualquier ubicación del mundo con los lugares que esten etiquetados en el Google Maps como lugares pertenecientes al área de la salud. Además, cuenta con un buscador con el que podrá buscar de forma personalizada el hospital de su preferencia en un radio de 5 kilometros.
+Inicialmente cuenta con un panel que permite al usuario conocer los hospitales cercanos en un radio de hasta 2,5 kilómetros. También puede seleccionar si desea solo ver Clinicas, Dentistas o la que es por defecto, hospitales. Esto funciona en cualquier ubicación del mundo con los lugares que esten etiquetados en el Google Maps como sitios pertenecientes al área de la salud. Además, cuenta con un buscador personalizado, donde podrá encontrar el hospital o área de la salud de su preferencia en un radio de 5 kilómetros.
 
 ![preview](.assets/4.png)
 
